@@ -7,33 +7,38 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Julian Ing's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Julian Ing
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A robotics engineer driven by a deep passion for the intersection of biology and technology. For the past eight years, I’ve been fascinated by how robotics can augment human capabilities, a journey inspired by my close relationship with my mother-in-law, who is an above-knee amputee. This personal connection has shaped not just my interests but my purpose: to develop technologies that genuinely improve lives.
+
+  My academic and professional path reflects this mission. I hold a Master’s degree in *Human and Biological Robotics* from Imperial College London, where I designed and developed a dexterous robotic hand as part of my thesis—a project many thought impossible due to its complexity, yet I completed it solo within five months on a tight budget. Before that, I earned a First-Class Honours degree in Robotics from Middlesex University, where I created a brain-computer interface to control a robotic arm with my thoughts.
+
+  My work blends mechanical design, programming, and human-centered engineering, with a focus on assistive technologies like prosthetics and exoskeletons. Beyond robotics, I’ve run a successful clothing brand, giving me unique expertise in textiles—an unexpected but valuable asset when considering ergonomics and wearable tech.
+
+  This portfolio showcases my projects, skills, and the journey I’ve taken to merge technology with humanity. For me, engineering isn’t just a career; it’s a way to contribute meaningfully to the world.
+  
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/headshot_sqr.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: ./assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea2    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: https://www.linkedin.com/in/julian-ing/    # https://www.linkedin.com/in/{your url slug} 
+  github:     # https://github.com/{your url slug} 
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -43,52 +48,82 @@ external-links:    # input only your own url slug. The icons with missing entrie
   bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Robotics Engineering
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+      - Dexterous Robotic Hand Design
+      - In-Hand Manipulation
+      - Anthropomorphic Robotics
+      - Prosthetic Development
+      - Biologically Inspired Robotics
 
+  - category: Mechanical Design
+    tools:
+      - SolidWorks (CAD)
+      - Finite Element Analysis (FEA)
+      - Linkage Mechanism Design
+      - Mechanical Simulation
+      - 3D Printing (PolyJet, FDM)
+      - CNC Machining
+
+  - category: Electronics & Embedded Systems
+    tools:
+      - Microcontroller Programming (Arduino, STM32)
+      - Motor Control (DC Motors, Encoders, Motor Drivers)
+      - PCB Design and Circuit Prototyping
+      - Power Management Systems
+
+  - category: Programming & Software Development
+    tools:
+      - Python (Primary Language)
+      - C++ (Robotics Applications)
+      - MATLAB (Signal Processing)
+      - ROS (Robot Operating System)
+      - MNE Python (EEG Signal Processing)
+
+  - category: Control Systems & Algorithms
+    tools:
+      - Inverse Kinematics
+      - Kinematic Modelling (PSS, PSU, Four-Bar Linkages)
+      - Real-Time Control Systems
+      - Brain-Computer Interface (BCI) Development
+      - Signal Processing & Classification (EEG Data)
+
+  - category: Prototyping & Fabrication
+    tools:
+      - 3D Printing (Stratasys PolyJet, FDM)
+      - Rapid Prototyping
+      - Laser Cutting
+      - Lead Screw Mechanism Design
+
+  - category: Human-Centered Design
+    tools:
+      - Assistive Technology Design
+      - Ergonomics & Comfort Optimization
+      - Human-Computer Interaction (HCI)
+
+  - category: Interdisciplinary Knowledge
+    tools:
+      - Neurophysiology & EEG Signal Analysis
+      - Systems Physiology (Musculoskeletal, Endocrine, Neuroscience)
+      - Medical Device Development & Regulatory Compliance
+
+  - category: Business & Entrepreneurship
+    tools:
+      - Medical Device Entrepreneurship
+      - Product Development Lifecycle
+      - Intellectual Property & Patent Analysis
+      - Startup Operations & Business Strategy
+
+  - category: Additional Technical Skills
+    tools:
+      - Textile Design & Fabric Integration
+      - Data Analysis & Visualization
+      - Simulation Software (URSim for Robotic Arms)
+      - Machine Learning for Signal Classification
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+#formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 
