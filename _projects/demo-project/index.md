@@ -14,7 +14,7 @@ skills:
 main-image: /Bitilda1.png
 ---
 
-## Project Overview
+## Purpose
 The development of an advanced dexterous prosthetic hand was undertaken to explore the limits of biomimetic robotics. This project involved replicating the intricate structure, range of motion, and dynamic control of the human hand using custom-designed mechanical linkages, embedded systems, and sophisticated control algorithms.
 
 ## Key Objectives
@@ -52,7 +52,7 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 
 ### Relationship between Prismatic displacement and finger pose 
 
-{% include image-gallery.html images="dispalcement.png" height="400" %}
+{% include image-gallery.html images="displacement.png" height="400" %}
 
 (a) Home position. (b) MCP abduction/adduction. (c) MCP flexion/extension. (d) PIP + DIP
 flexion/extension. (e) MCP + PIP + DIP flexion/extension. (f) MCP + PIP + DIP flexion/extension and
@@ -103,9 +103,6 @@ Comparative analysis of reachable workspace and Inter-digit overlap, showing tha
 - **Microcontrollers:** Arduino, STM32
 - **Programming Languages:** Python, C++
 - **Prototyping:** 3D Printing (PolyJet, FDM), CNC Machining
-
-## Video Demonstration
-{% include youtube-video.html id="tGCdLEQzde0" autoplay="false" width="900px" %}
 
 ## Conclusion
 This project showcases the integration of mechanical, electronic, and software engineering to create a sophisticated robotic system. It stands as a testament to the potential of interdisciplinary approaches in advancing assistive technologies.
