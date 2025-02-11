@@ -314,7 +314,7 @@ nav .mobile-nav {
 .project-card img {
     width: 100%; 
     max-width: 100%; 
-    aspect-ratio: 3/1;
+    height: auto;
     object-fit: contain;
     display: block;
     border-radius: 6px;
@@ -953,8 +953,8 @@ footer p {
     /* Adds spacing above and below project images */
     .project-card img,
     .post-view .content .image-gallery img {
-        margin-top: 15px;
-        margin-bottom: 15px;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
      
 }
