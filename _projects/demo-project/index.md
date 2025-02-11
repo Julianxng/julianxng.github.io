@@ -11,7 +11,7 @@ skills:
   - Prototyping & Fabrication
   - Biomechanical Simulation
 
-main-image: /Mainimg.png
+main-image: /Bitilda1.png
 ---
 
 ## Purpose
