@@ -52,7 +52,7 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 
 ### Relationship between Prismatic displacement and finger pose 
 
-{% include image-gallery.html images="displacement.png" height="400" %}
+{% include image-gallery.html images="displacements.png" height="400" %}
 
 (a) Home position. (b) MCP abduction/adduction. (c) MCP flexion/extension. (d) PIP + DIP
 flexion/extension. (e) MCP + PIP + DIP flexion/extension. (f) MCP + PIP + DIP flexion/extension and
