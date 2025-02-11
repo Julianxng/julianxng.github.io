@@ -39,35 +39,55 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 ## Image Gallery
 
 ### Linkage Mechanism Architecture
+
 {% include image-gallery.html images="architecture.png" height="400" %}
+
 (a) Exploded view. (b) Un-exploded view. (c) Full design with representation of virtual human joints. (d) Annotated main components list
 
+
 ### Kinematic structure of the finger
+
 {% include image-gallery.html images="Kinematics.png" height="400" %}
 
+
 ### Relationship between Prismatic displacement and finger pose 
+
 {% include image-gallery.html images="dispalcement.png" height="400" %}
+
 (a) Home position. (b) MCP abduction/adduction. (c) MCP flexion/extension. (d) PIP + DIP
 flexion/extension. (e) MCP + PIP + DIP flexion/extension. (f) MCP + PIP + DIP flexion/extension and
 simultaneous abduction/adduction
 
-### Workspace comparison
-{% include image-gallery.html images="workspace.png" height="400" %}
-Comparative analysis of reachable workspace and Inter-digit overlap, showing that the two thumb achitecture provides a larger field of precise dexterity through redundancy
 
 ### Custom electromechanical components
+
 {% include image-gallery.html images="blowup.png" height="400" %}
+
 (a) Exploded view of functional components. (b) annotated list relative to hand size
 
+
 ### Grasp types achievable by the Bi-TILDA
+
 {% include image-gallery.html images="Bitilda1.png" height="400" %}
+
 (a) Power grasp (b) Delicate fingertip
 grasp of large object. (c) Power grasp using only two thumbs and middle finger. (d) Pinch grasp of
 medium sized object. (e) Precision grasp of small, thin object. (f) Delicate precision grasp.
 
+
 ### Camera based tele-operation control
+
 {% include image-gallery.html images="Teleoperation.png" height="400" %}
+
 Tracks fingertip coordinates in cartesian space and maps it to motor positions through a complex inverse kinematics solver
+
+
+### Workspace comparison
+
+{% include image-gallery.html images="workspace.png" height="400" %}
+
+Comparative analysis of reachable workspace and Inter-digit overlap, showing that the two thumb achitecture provides a larger field of precise dexterity through redundancy
+
 
 ## Challenges and Solutions
 - **Complex Kinematic Modeling:** Solved through iterative design and simulation.
