@@ -17,7 +17,7 @@ main-image: /Bitilda1.png
 ## Purpose
 my research introduces the Bi-TILDA (Bi-thumberal Integrated Linkage Dexterous Anthropomorphic) robotic hand. 
 
-Theprimary objective of this study is to investigate how a dual-thumb architecture can enhance robotic handdexterity, increase grasp stability, and expand the range of manipulation tasks. By exploring this novel design, this research aims to provide new insights into the design and application of dexterous robotic hands, particularly in the context of in-hand manipulation, and to overcome the limitations of traditional robotic
+The primary objective of this study is to investigate how a dual-thumb architecture can enhance robotic handdexterity, increase grasp stability, and expand the range of manipulation tasks. By exploring this novel design, this research aims to provide new insights into the design and application of dexterous robotic hands, particularly in the context of in-hand manipulation, and to overcome the limitations of traditional robotic
 hands.
 
 This project involved replicating the intricate structure, range of motion, and dynamic control of the human hand using custom-designed mechanical linkages, embedded systems, and sophisticated control algorithms.
@@ -53,7 +53,7 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 ### Kinematic structure of the finger
 
 {% include image-gallery.html images="Kinematics.png" height="400" %}
-
+&nbsp;  
 
 ### Relationship between Prismatic displacement and finger pose 
 
