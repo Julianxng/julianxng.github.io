@@ -11,7 +11,7 @@ skills:
   - Prototyping & Fabrication
   - Biomechanical Simulation
 
-main-image: /project1.jpg
+main-image: /Bitilda1.png
 ---
 
 ## Project Overview
@@ -37,8 +37,11 @@ The control system integrates inverse kinematics models to map finger joint posi
 The hand was prototyped using 3D printing technologies (FDM and PolyJet) and assembled with precision components to maintain the delicate balance between durability and lightweight design.
 
 ## Image Gallery
-{% include image-gallery.html images="/assets/images/project1_1.jpg, /assets/images/project1_2.jpg" height="400" %}
 
+### Linkage mechanism architecture
+{% include image-gallery.html images="/assets/images/architecture.png  height="400" %}
+(a) Exploded view. (b) Un-exploded view. (c) Full design with representation of virtual human
+joints. (d) Annotated main components list
 ## Challenges and Solutions
 - **Complex Kinematic Modeling:** Solved through iterative design and simulation.
 - **Power and Space Constraints:** Optimized PCB layout and efficient wiring solutions.
