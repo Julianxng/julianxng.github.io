@@ -42,6 +42,7 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 {% include image-gallery.html images="/assets/images/architecture.png  height="400" %}
 (a) Exploded view. (b) Un-exploded view. (c) Full design with representation of virtual human
 joints. (d) Annotated main components list
+
 ## Challenges and Solutions
 - **Complex Kinematic Modeling:** Solved through iterative design and simulation.
 - **Power and Space Constraints:** Optimized PCB layout and efficient wiring solutions.
