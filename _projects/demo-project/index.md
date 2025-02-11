@@ -39,7 +39,7 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 ## Image Gallery
 
 ### Linkage Mechanism Architecture
-{% include image-gallery.html images="/_projects/demo-project/architecture.png" height="400" %}
+{% include image-gallery.html images="/assets/images/architecture.png" height="400" %}
 (a) Exploded view. (b) Un-exploded view. (c) Full design with representation of virtual human joints. (d) Annotated main components list
 
 
