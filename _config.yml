@@ -15,10 +15,17 @@ title: Julian Ing's Portfolio # This is what shows up in the tab of the browser
 name: Julian Ing
 #headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I'm a robotics engineer driven by a deep passion for the intersection of biology and technology. For the past eight years, I’ve been fascinated by how robotics can augment human capabilities, a journey inspired by my close relationship with an above-knee amputee. This personal connection has shaped not just my interests but my purpose: to develop technologies that genuinely improve lives. <br> 
-  My academic and professional path reflects this mission. I hold a Master’s degree in 'Human and Biological Robotics' from Imperial College London, where I designed and developed a dexterous robotic hand as part of my thesis—a project many thought impossible due to its complexity, yet I completed it solo within five months on a tight budget. Before that, I earned a First-Class Honours degree in Robotics from Middlesex University, where I created a brain-computer interface to control a robotic arm with my thoughts.
+  I'm a robotics engineer driven by a deep passion for the intersection of biology and technology. For the past eight years, 
+  I’ve been fascinated by how robotics can augment human capabilities, a journey inspired by my close relationship with an above-knee amputee. 
+  This personal connection has shaped not just my interests but my purpose: to develop technologies that genuinely improve lives. <br> 
+  My academic and professional path reflects this mission. I hold a Master’s degree in 'Human and Biological Robotics' from 
+  Imperial College London, where I designed and developed a dexterous robotic hand as part of my thesis; a project many thought 
+  impossible due to its complexity, yet I completed it solo within five months on a tight budget. Before that, I earned a 
+  First-Class Honours degree in Robotics from Middlesex University, where I developed a brain-computer interface to control a 
+  robotic arm with my thoughts. <br>
   My work blends mechanical design, programming, and human-centered engineering, with a focus on assistive technologies like prosthetics and exoskeletons. Beyond robotics, I’ve run a successful clothing brand, giving me unique expertise in textiles—an unexpected but valuable asset when considering ergonomics and wearable tech.
-  This portfolio showcases my projects, skills, and the journey I’ve taken to merge technology with humanity. For me, engineering isn’t just a career; it’s a way to contribute meaningfully to the world.
+  This portfolio showcases my projects, skills, and the journey I’ve taken to merge technology with humanity. <br>
+  For me, engineering isn’t just a career; it’s a way to contribute meaningfully to the world.
   
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
