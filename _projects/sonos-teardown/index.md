@@ -11,6 +11,7 @@ skills:
 
 main-image: /sonos.png
 ---
-
+## Video Demonstration
+{% include youtube-video.html id="tGCdLEQzde0" autoplay="false" width="900px" %}
 # This is another demo
 

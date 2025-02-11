@@ -15,7 +15,12 @@ main-image: /Bitilda1.png
 ---
 
 ## Purpose
-The development of an advanced dexterous prosthetic hand was undertaken to explore the limits of biomimetic robotics. This project involved replicating the intricate structure, range of motion, and dynamic control of the human hand using custom-designed mechanical linkages, embedded systems, and sophisticated control algorithms.
+my research introduces the Bi-TILDA (Bi-thumberal Integrated Linkage Dexterous Anthropomorphic) robotic hand. 
+
+Theprimary objective of this study is to investigate how a dual-thumb architecture can enhance robotic handdexterity, increase grasp stability, and expand the range of manipulation tasks. By exploring this novel design, this research aims to provide new insights into the design and application of dexterous robotic hands, particularly in the context of in-hand manipulation, and to overcome the limitations of traditional robotic
+hands.
+
+This project involved replicating the intricate structure, range of motion, and dynamic control of the human hand using custom-designed mechanical linkages, embedded systems, and sophisticated control algorithms.
 
 ## Key Objectives
 - Replicate human-like dexterity and motion.
