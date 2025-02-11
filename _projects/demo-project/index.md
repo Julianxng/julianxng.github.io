@@ -11,7 +11,7 @@ skills:
   - Prototyping & Fabrication
   - Biomechanical Simulation
 
-main-image: /_projects/demo-projects/Bitilda1.png
+main-image: /Bitilda1.png
 ---
 
 ## Project Overview
@@ -40,6 +40,7 @@ The hand was prototyped using 3D printing technologies (FDM and PolyJet) and ass
 
 ### Linkage Mechanism Architecture
 {% include image-gallery.html images="/assets/images/architecture.png" height="400" %}
+
 (a) Exploded view. (b) Un-exploded view. (c) Full design with representation of virtual human joints. (d) Annotated main components list
 
 
