@@ -1,114 +1,61 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
-skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+title: Advanced Dexterous Prosthetic Hand Development
+description: This project focuses on the design and development of an advanced dexterous robotic hand, aiming to replicate the complex motion and functionality of a human hand. The project required expertise in mechanical design, embedded systems, control algorithms, and human-centered design to achieve high precision and functionality.
+skills:
+  - Mechanical Design
+  - Embedded Systems
+  - Control Algorithms
+  - Inverse Kinematics
+  - Human-Centered Design
+  - Prototyping & Fabrication
+  - Biomechanical Simulation
 
-main-image: /project2.jpg
+main-image: /project1.jpg
 ---
 
----
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Project Overview
+The development of an advanced dexterous prosthetic hand was undertaken to explore the limits of biomimetic robotics. This project involved replicating the intricate structure, range of motion, and dynamic control of the human hand using custom-designed mechanical linkages, embedded systems, and sophisticated control algorithms.
 
+## Key Objectives
+- Replicate human-like dexterity and motion.
+- Achieve real-time control for complex finger movements.
+- Optimize for compact form factor and lightweight design.
+- Integrate robust control algorithms for precise actuation.
 
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+## Design and Development
+### Mechanical Design
+The hand features a complex linkage mechanism replicating the natural biomechanics of human fingers. Utilizing SolidWorks for CAD modeling, stress analysis was conducted to ensure structural integrity under dynamic loads.
 
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+### Embedded Systems
+Microcontrollers (Arduino and STM32) were employed to manage the control of 15 motors, encoders, and drivers, ensuring real-time response and precision.
 
+### Control Algorithms
+The control system integrates inverse kinematics models to map finger joint positions accurately. The algorithms handle real-time feedback for smooth and coordinated finger movements.
 
-## Embedding youtube video
-The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-*Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+### Prototyping & Fabrication
+The hand was prototyped using 3D printing technologies (FDM and PolyJet) and assembled with precision components to maintain the delicate balance between durability and lightweight design.
 
-you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
+## Image Gallery
+{% include image-gallery.html images="/assets/images/project1_1.jpg, /assets/images/project1_2.jpg" height="400" %}
 
-The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
-{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
+## Challenges and Solutions
+- **Complex Kinematic Modeling:** Solved through iterative design and simulation.
+- **Power and Space Constraints:** Optimized PCB layout and efficient wiring solutions.
+- **Precision Control:** Advanced PID control loops for stable performance.
 
-<br>
+## Key Achievements
+- Successfully developed a functional, dexterous robotic hand with high fidelity to human hand movements.
+- Demonstrated real-time control of individual fingers with coordinated gestures.
 
-## Adding a hozontal line
----
+## Technologies Used
+- **CAD Tools:** SolidWorks
+- **Microcontrollers:** Arduino, STM32
+- **Programming Languages:** Python, C++
+- **Prototyping:** 3D Printing (PolyJet, FDM), CNC Machining
 
-## Starting a new line
-leave two spaces "  " at the end or enter <br>
+## Video Demonstration
+{% include youtube-video.html id="tGCdLEQzde0" autoplay="false" width="900px" %}
 
-## Adding bold text
-this is how you input **bold text**
-
-## Adding italic text
-Italicized text is the *cat's meow*.
-
-## Adding ordered list
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-## Adding unordered list
-- First item
-- Second item
-- Third item
-- Fourth item
-
-## Adding code block
-```ruby
-def hello_world
-  puts "Hello, World!"
-end
-```
-
-```python
-def start()
-  print("time to start!")
-```
-
-```javascript
-let x = 1;
-if (x === 1) {
-  let x = 2;
-  console.log(x);
-}
-console.log(x);
-
-```
-
-## Adding external links
-[Wikipedia](https://en.wikipedia.org)
-
-
-## Adding block quote
-> A blockquote would look great if you need to highlight something
-
-
-## Adding table 
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
-
-make sure to leave aline betwen the table and the header
-
-
+## Conclusion
+This project showcases the integration of mechanical, electronic, and software engineering to create a sophisticated robotic system. It stands as a testament to the potential of interdisciplinary approaches in advancing assistive technologies.
