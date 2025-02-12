@@ -10,7 +10,7 @@ skills:
   - Robotics Control
   - Data Analysis
 
-main-image: /main2.png
+main-image: /eegmain.png
 ---
 
 ## Purpose
@@ -19,7 +19,6 @@ The aim of this research was to develop a brain-computer interface that enables 
 The system leverages electroencephalography (EEG) signals to classify motor imagery tasks and convert them into control commands for a robotic arm. This research aims to advance the accessibility of BCI technologies through cost-effective solutions with minimal hardware.
 
 This page contains a breif oversight of an incredibly complex project, full details can be found in the original paper [here](https://drive.google.com/file/d/1VCVjxGq2CqPOhzUSwDlBgPKRQxJnPFXn/view?usp=drive_link)
-
 
 ## Key Objectives
 - Capture and process EEG signals accurately.
@@ -68,7 +67,7 @@ used in psychological examinations and studies.
 {% include image-gallery.html images="PSD.png" height="400" %}
 This diagram displays a signal's mean-square amplitude, or “power,” across a frequency spectrum. We can observe clear spikes indicating motor imagery behaviour.
 
-### Contralateral descyncronisation
+### Contralateral desynchronisation
 {% include image-gallery.html images="ERD_proof.png" height="400" %}
 the top 'c3' channel has been filtered, it represents the left motor cotrex. We can observe event-related desynchronisation (ERD) through an increase in signal amplitude during the right hand movements (orange bars) and a decrease during left hand movements (blue bars)
 

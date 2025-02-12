@@ -22,6 +22,8 @@ hands.
 
 This project involved replicating the intricate structure, range of motion, and dynamic control of the human hand using custom-designed mechanical linkages, embedded systems, and sophisticated control algorithms.
 
+This page contains a breif oversight of an incredibly complex project, full details can be found in the original paper [here](https://drive.google.com/file/d/1Wly0BfT6lK3g8eUGSQ55rkRpKhrYd5qc/view?usp=sharing)
+
 ## Key Objectives
 - Replicate human-like dexterity and motion.
 - Achieve real-time control for complex finger movements.
