@@ -3,7 +3,14 @@ layout: post
 title: Transhumanist Biotech - The Future of Human Augmentation (research paper)
 description: A literature review examining the intersection of biology and technology, showcasing the current state of research on genome editing, brain-machine interfaces, prosthetics, and nanotechnology in the context of transhumanism.
 skills:
-
+  - Market & Technology Analysis
+  - Bioethics & Policy Evaluation
+  - Emerging Technology Forecasting
+  - Neurotechnology & Brain-Machine Interfaces
+  - Advanced Prosthetics & Human Augmentation
+  - Philosophical & Societal Impact Assessment
+  - Interdisciplinary Research Synthesis
+  
 main-image: /hiroto.jpg
 order : 4
 ---
