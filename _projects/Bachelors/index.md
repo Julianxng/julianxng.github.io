@@ -44,6 +44,10 @@ A Convolutional neural network was also developed, yet deemed unsuitable for rea
 ### Robotic Control System
 The classified EEG signals were mapped to control commands for a UR10 robotic arm. The system demonstrated real-time responsiveness and reliable control performance.
 
+### Demonstration video
+## Video Feature: The Future of Human Augmentation
+{% include youtube-video.html id="S5LJHisQpHI" autoplay="false" %}
+
 ## Image Gallery
 
 ### Neurophysiological input
@@ -104,7 +108,7 @@ the first CSP component, and the y-axis being their values with the last CSP com
 - Demonstrated potential applications in assistive technologies for individuals with disabilities.
 
 ## Technologies Used
-- **EEG Hardware:** Medical-grade EEG device
+- **EEG Hardware:** Medical-grade Powerlab 26T
 - **Programming Languages:** Python, MATLAB
 - **Machine Learning:** Linear Discriminant Analysis (LDA)
 - **Robotics:** UR10 robotic arm
