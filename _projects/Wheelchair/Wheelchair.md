@@ -11,6 +11,7 @@ skills:
   - Rapid Prototyping
 
 main-image: /wheelchair.jpg
+order : 3
 ---
 
 ## Purpose
@@ -49,16 +50,16 @@ Instead of modifying the hoverboard’s original motherboard, custom BLDC motor 
 Utilising 3 adjustable attachment arms for redundancy, allowing attachment to any wheelchair while also providing a force-resistant connection 
 
 ### Hoverboard teardown
-{% include image-gallery.html images="breakdown.png" height="400" %}
+{% include image-gallery.html images="breakdown.jpg" height="400" %}
 
 ### Prototyping lab
-{% include image-gallery.html images="lab.png" height="400" %}
+{% include image-gallery.html images="lab.jpg" height="400" %}
 
 ### Product in use
 {% include image-gallery.html images="motion.png" height="400" %}
 
 ### Final product
-{% include image-gallery.html images="wheelchair.png" height="400" %}
+{% include image-gallery.html images="wheelchair.jpg" height="400" %}
 
 ## Challenges and Solutions
 - Attachment Stability: Early designs lacked rigidity, but adjustments in structural reinforcement and component positioning resolved these issues.

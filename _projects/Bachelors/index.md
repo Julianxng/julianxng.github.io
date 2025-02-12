@@ -10,7 +10,8 @@ skills:
   - Robotics Control
   - Data Analysis
 
-main-image: /eegmain.png
+main-image: /eegmain.
+order: 2
 ---
 
 ## Purpose

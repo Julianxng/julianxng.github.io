@@ -12,6 +12,7 @@ skills:
   - Biomechanical Simulation
 
 main-image: /Bitilda1.png
+order : 1
 ---
 
 ## Purpose
