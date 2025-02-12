@@ -10,7 +10,7 @@ skills:
   - Robotics Control
   - Data Analysis
 
-main-image: /eegmain.
+main-image: /eegmain.png
 order: 2
 ---
 
@@ -46,7 +46,6 @@ A Convolutional neural network was also developed, yet deemed unsuitable for rea
 The classified EEG signals were mapped to control commands for a UR10 robotic arm. The system demonstrated real-time responsiveness and reliable control performance.
 
 ### Demonstration video
-## Video Feature: The Future of Human Augmentation
 {% include youtube-video.html id="S5LJHisQpHI" autoplay="false" %}
 
 ## Image Gallery
