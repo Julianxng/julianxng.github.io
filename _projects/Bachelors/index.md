@@ -49,7 +49,7 @@ The classified EEG signals were mapped to control commands for a UR10 robotic ar
 
 ### Neurophysiological input
 {% include image-gallery.html images="motor_imagery.png" height="400" %}
-I leveraged the neurological phenomena known as 'motor imagery'. When a subject imagines moving their left or right hand, a spike of activity can be observed in the opposite side of the motor cortex, this is termed 'contralateral desyncronisation' and is exclusively observed within the 
+I leveraged the neurological phenomena known as 'motor imagery'. When a subject imagines moving their left or right hand, a spike of activity can be observed in the opposite side of the motor cortex, this is termed 'contralateral desynchronisation' and is exclusively observed within the 
 alpha (8-12 Hz) and the beta rhythm (13-30 Hz) bands. 
 
 ### EEG Signal Acquisition Setup
