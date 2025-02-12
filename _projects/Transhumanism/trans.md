@@ -4,7 +4,7 @@ title: Transhumanist Biotech - The Future of Human Augmentation (research paper)
 description: A literature review examining the intersection of biology and technology, showcasing the current state of research on genome editing, brain-machine interfaces, prosthetics, and nanotechnology in the context of transhumanism.
 skills:
 
-main-image: /5825.jpg
+main-image: /hiroto.jpg
 ---
 
 ## Purpose
@@ -26,23 +26,17 @@ Human augmentation has been an evolving concept, from early pacemakers and genet
 - The conceptualization of nanotechnology in the 1980s.
 - The rise of brain-machine interfaces in the 2000s.
 
-## Image Gallery
+## Brain Modification - Neural Implants
+Neural implants, such as Elon Musk’s Neuralink, promise to bridge the gap between the human brain and AI, allowing direct control over devices, enhanced cognitive abilities, and even communication through thought. These developments could lead to a future where humans merge with machines at an unprecedented level.
 
-### Brain Modification - Neural Implants
-{% include image-gallery.html images="neuralink.png" height="400" %}
-Neural interfaces such as Elon Musk's Neuralink promise to bridge the gap between the human brain and AI, allowing direct control over devices and even communication through thought.
+## Genome Editing and Intelligence Augmentation
+CRISPR and other gene-editing techniques are pushing the boundaries of what is possible in human enhancement. These technologies provide the potential to not only eliminate hereditary diseases but also enhance intelligence, memory, and cognitive processing speed, raising ethical questions about genetic modification.
 
-### Genome Editing and Intelligence Augmentation
-{% include image-gallery.html images="genome_editing.png" height="400" %}
-CRISPR and other gene-editing techniques are pushing the boundaries of what is possible in human enhancement.
+## Prosthetic Evolution - Beyond Restorative Function
+The rapid advancement of prosthetic limbs has opened up possibilities beyond medical restoration, entering the realm of enhanced physical capabilities. From powered exoskeletons that improve human strength to prosthetic limbs offering superhuman dexterity, this field is redefining human potential.
 
-### Prosthetic Evolution - Beyond Restorative Function
-{% include image-gallery.html images="prosthetics.png" height="400" %}
-The rapid evolution of prosthetic limbs has opened up possibilities beyond medical restoration, entering the realm of enhanced physical capabilities.
-
-### Nanotechnology for Internal Augmentation
-{% include image-gallery.html images="nanotech.png" height="400" %}
-The field of nanomedicine is making strides in targeted drug delivery, tissue repair, and even cognitive enhancement through microscopic bioengineered systems.
+## Nanotechnology for Internal Augmentation
+Nanotechnology is revolutionizing internal augmentation through innovations in medicine, such as targeted drug delivery, tissue repair, and brain enhancement. Microscopic bioengineered systems could one day extend human lifespan and cognitive abilities by repairing damage at the cellular level.
 
 ## Ethics and Future Considerations
 Transhumanism presents profound ethical challenges, including:
@@ -52,9 +46,6 @@ Transhumanism presents profound ethical challenges, including:
 
 ## Video Feature: The Future of Human Augmentation
 {% include youtube-video.html id="XGC31lmdS6s" autoplay="false" %}
-
-## Read the Full Paper
-
 
 ## Conclusion
 The augmentation of human capabilities is no longer confined to science fiction; it is an emerging reality. This research examines the challenges, benefits, and ethical considerations of a future where humans take control of their own evolution.
