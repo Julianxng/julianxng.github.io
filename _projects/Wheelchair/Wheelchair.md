@@ -46,7 +46,7 @@ Instead of modifying the hoverboard’s original motherboard, custom BLDC motor 
 ## Image Gallery
 
 ### 3D CAD model
-{% include image-gallery.html images="CAD.png" height="400" %}
+{% include image-gallery.html images="CAD.jpg" height="400" %}
 Utilising 3 adjustable attachment arms for redundancy, allowing attachment to any wheelchair while also providing a force-resistant connection 
 
 ### Hoverboard teardown
