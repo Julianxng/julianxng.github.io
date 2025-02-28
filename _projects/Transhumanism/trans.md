@@ -52,8 +52,5 @@ Transhumanism presents profound ethical challenges, including:
 - **Cognitive Overload:** Risks associated with AI-driven neural enhancement.
 - **Regulation and Ownership:** The question of who controls biological modifications and whether individuals will own their augmented bodies.
 
-## Video Feature: The Future of Human Augmentation
-{% include youtube-video.html id="XGC31lmdS6s" autoplay="false" %}
-
 ## Conclusion
 The augmentation of human capabilities is no longer confined to science fiction; it is an emerging reality. This research examines the challenges, benefits, and ethical considerations of a future where humans take control of their own evolution.
